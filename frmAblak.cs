@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AllapotsorValasztogomb
+namespace WF_Controls_AllapotsorValasztogomb
 {
   /// <summary>
   /// Felsorolás típus a panelek neveinek tárolására.

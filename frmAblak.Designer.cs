@@ -1,5 +1,5 @@
 ﻿
-namespace AllapotsorValasztogomb
+namespace WF_Controls_AllapotsorValasztogomb
 {
 	partial class frmAblak
 	{
